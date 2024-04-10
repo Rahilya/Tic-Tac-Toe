@@ -8,3 +8,4 @@ This project is a simple implementation of the classic Tic Tac Toe game built wi
 - The game automatically detects a winner.
 - The player's turn is indicated at the top of the board.
 - Restart button allows players to reset the game.
+[Versal](https://tic-tac-toe-tan-iota.vercel.app/)
